@@ -11,7 +11,7 @@ cracking
 script test
 
 <iframe 
-  src="https://your-username.github.io/your-blazor-repo-name/" 
+  src="https://www.google.co.uk/" 
   width="100%" 
   height="600px" 
   style="border: none;">
