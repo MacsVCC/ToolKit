@@ -9,3 +9,10 @@ test test
 test test
 cracking
 script test
+
+<iframe 
+  src="https://your-username.github.io/your-blazor-repo-name/" 
+  width="100%" 
+  height="600px" 
+  style="border: none;">
+</iframe>
