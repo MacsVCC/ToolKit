@@ -1,0 +1,14 @@
+
+
+in cmd/powershell, run:
+cd C:\Users\Macs\source\repos\MacsVCC\ToolKit
+
+then run:
+npx quartz sync
+
+Visit the following link to see the progress of the sync:
+https://github.com/MacsVCC/ToolKit/actions
+
+Then visit:
+https://macsvcc.github.io/ToolKit/
+
