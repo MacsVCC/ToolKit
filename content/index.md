@@ -11,7 +11,7 @@ cracking
 script test
 
 <iframe 
-  src="https://www.google.co.uk/" 
+  src="https://macsvcc.github.io/BlazorAppTest1/" 
   width="100%" 
   height="600px" 
   style="border: none;">
