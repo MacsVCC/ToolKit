@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/MacsVCC/ToolKit
+  baseUrl: macsvcc.github.io/ToolKit
   ignorePatterns:
     - private
     - templates
