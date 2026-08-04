@@ -1,8 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to the ToolKit
 ---
-
-# Welcome to the ToolKit
 A repository for all my little projects
 
 ### Current apps:
